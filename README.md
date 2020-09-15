@@ -3,9 +3,6 @@ Tutorial 3 de docker aprendiendo docker con servidores de Minecraft
 
 Aprendiendo docker compose levantando servidores minecraft con docker, con bungeeCord incluido. También aprendemos a levantar un servidor minecraft bedrock.
 
-Los ficheros usados los podéis ver aquí 
-https://github.com/minakmostoles/Docker-02.-Jugando-con-docker-compose-Postgres-adminer-
-
 Las imágenes usadas son las siguientes:
 https://hub.docker.com/r/itzg/bungeecord
 https://hub.docker.com/r/itzg/minecraft-server
